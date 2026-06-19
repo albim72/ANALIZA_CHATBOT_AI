@@ -1,0 +1,121 @@
+﻿id_klienta;imie;nazwisko;email;telefon;pesel;data_urodzenia
+K00001;Adam;Jankowski;adam.jankowski1@example.com;163-463-859;57081680779;1957-08-16
+K00002;Grzegorz;Grabowski;grzegorz.grabowski2@testmail.pl;633579712;04252593231;2004-05-25
+K00003;Marek;Wójcik;marek.wojcik3@testmail.pl;967188662;83072531294;1983-07-25
+K00004;Joanna;Piotrowska;;+48 113 711 122;59122258909;1959-12-22
+K00005;Aleksandra;Wróbel;aleksandra.wrobel5@testmail.pl;+48 549 336 162;69040464902;1969-04-04
+K00006;Beata;Baran;jan.nowak.example.com;645 814 546;90020991028;1990-02-09
+K00007;Krzysztof;Mazur;krzysztof.mazur7@demo.org;+48 451 380 619;04242380438;2004-04-23
+K00008;Wojciech;Stępień;wojciech.stepien8@demo.org;12345;79050211153;1979-05-02
+K00009;Anna;Kozłowski;anna.kozlowski9@poczta.pl;;70043070746;1970-04-30
+K00010;Beata;Kozłowski;beata.kozlowski10@firma.pl;203 012 747;56100165185;1956-10-01
+K00011;Łukasz;Kozłowski;lukasz.kozlowski11@demo.org;+48 159 791 448;1234567890;1968-12-16
+K00012;Robert;Jankowski;robert.jankowski12@testmail.pl;449459767;55100309393;1955-10-03
+K00013;Marcin;Piotrowska;anna@@firma.pl;286-946-998;65032676559;1965-03-26
+K00014;Rafał;Kowalczyk;rafal.kowalczyk14@firma.pl;696 516 750;80052542455;1980-05-25
+K00015;Wojciech;Stępień;wojciech.stepien15@testmail.pl;468 579 590;;1981-12-02
+K00016;Joanna;Mazur;joanna.mazur16@example.com;498-195-269;84021277768;1984-02-12
+K00017;Michał;Król;michal.krol17@poczta.pl;abc-123-456;61040160611;1961-04-01
+K00018;Monika;Wiśniewski;monika.wisniewski18@poczta.pl;943 774 261;56022024885;1956-02-20
+K00019;Natalia;Nowak;piotr@testmail;298984484;64021405600;1964-02-14
+K00020;Natalia;Woźniak;natalia.wozniak20@demo.org;+48 500 581 573;93111114665;1993-11-11
+K00021;Zofia;Kozłowski;zofia.kozlowski21@example.com;688 215 624;80082707288;
+K00022;Rafał;Wiśniewski;rafal.wisniewski22@firma.pl;092 793 809;59120774656;1959-12-07
+K00023;Monika;Woźniak;monika.wozniak23@demo.org;867124576;83062724969;1983-06-27
+K00024;Adam;Jabłońska;ewa@.pl;+48 132 151 302;59041903816;1959-04-19
+K00025;Robert;Wieczorek;robert.wieczorek25@demo.org;862-897-838;92072966533;1992-07-29
+K00026;Łukasz;Wójcik;lukasz.wojcik26@testmail.pl;+48 643 600 809;abcdefghijk;1968-05-14
+K00027;Michał;Mazur;michal.mazur27@poczta.pl;892 889 345;94102200455;1994-10-22
+K00028;;Kozłowski;robert.kozlowski28@demo.org;+48 575 674 736;93061106574;1993-06-11
+K00029;  Barbara  ;Olszewska;barbara.olszewska29@poczta.pl;145-141-818;69111520407;1969-11-15
+K00030;Łukasz;Wójcik;lukasz.wojcik30@demo.org;885863755;75020952710;1975-02-09
+K00031;Monika;Jabłońska;monika.jablonska31@testmail.pl;+48 123 45 67;68120449509;1968-12-04
+K00032;Karolina;Jabłońska;karolina.jablonska32@poczta.pl;+48 432 443 535;75111231166;1975-11-12
+K00033;Monika;Nowak;monika.nowak33@poczta.pl;538799628;64081588809;1964-08-15
+K00034;Łukasz;Pawlak;lukasz.pawlak34@demo.org;631 714 669;58112794034;1958-11-27
+K00035;Piotr;Król;piotr.krol35@example.com;614 256 346;72011771879;1999-13-04
+K00036;Joanna;Lewandowski;joanna.lewandowski36@example.com;+48 730 159 218;03252692629;2003-05-26
+K00037;Robert;;robert.michalska37@poczta.pl;965 295 968;70053139697;1970-05-31
+K00038;Michał;Jankowski;michal.jankowski38@poczta.pl;203 628 432;99010840911;1999-01-08
+K00039;Monika;Jankowski;monika.jankowski39@testmail.pl;926181042;73121813864;1973-12-18
+K00040;Katarzyna;Sikora;katarzyna.sikora40@testmail.pl;814-532-534;95061026287;1995-06-10
+K00041;Zofia;  DĄBROWSKA ;zofia.dabrowska41@firma.pl;770248566;61102330224;1961-10-23
+K00042;Robert;Woźniak;robert.wozniak42@firma.pl;813164166;90010642398;1990-01-06
+K00043;Sebastian;Nowak;marcin albiniak@example.com;967184777;74041900014;1974-04-19
+K00044;Robert;Stępień;robert.stepien44@testmail.pl;+48 250 750 260;92031505694;1992-03-15
+K00045;Piotr;Wiśniewski;piotr.wisniewski45@demo.org;5005005000;78070992817;1978-07-09
+K00046;Tomasz;Piotrowska;tomasz.piotrowska46@demo.org;190 910 354;98092904513;04.05.1981
+K00047;Magdalena;Baran;magdalena.baran47@testmail.pl;799194508;57123029285;1957-12-30
+K00048;Natalia;Wójcik;natalia.wojcik48@demo.org;956-347-285;70101564507;1970-10-15
+K00049;Grzegorz;Król;grzegorz.krol49@demo.org;442-384-314;72071905254;1972-07-19
+K00050;Beata;Grabowski;beata.grabowski50@testmail.pl;+48 252 404 091;80010118988;1980-01-01
+K00051;Karolina;Grabowski;karolina.grabowski51@demo.org;629-632-039;67062577000;1967-06-25
+K00052;Barbara;Szymański;barbara.szymanski52@demo.org;990 056 367;04212234100;2004-01-22
+K00053;Katarzyna;Kowalczyk;katarzyna.kowalczyk53@poczta.pl;351 189 630;82100659562;1982-10-06
+K00054;Łukasz;Jabłońska;lukasz.jablonska54@firma.pl;830 742 254;00221137635;2000-02-11
+K00055;Robert;Pawlak;robert.pawlak55@example.com;074979523;95012494172;1995-01-24
+K00056;Grzegorz;Olszewska;grzegorz.olszewska56@demo.org;+48 465 331 975;04291275255;2004-09-12
+K00057;Natalia;Woźniak;natalia.wozniak57@demo.org;+48 777 209 054;61030726449;2028-01-01
+K00058;Michał;Wójcik;kontakt#firma.pl;160 654 237;60030551633;1960-03-05
+K00059;Ewa;Krawczyk;ewa.krawczyk59@demo.org;847341183;60110496382;1960-11-04
+K00060;Ewa;Jankowski;ewa.jankowski60@testmail.pl;520-938-617;95080129907;1995-08-01
+K00061;Wojciech;Kowalczyk;wojciech.kowalczyk61@demo.org;743 841 979;71012994874;1971-01-29
+K00062;Aleksandra;Michalska;aleksandra.michalska62@example.com;996 367 963;68080528267;1968-08-05
+K00063;Monika;Baran;monika.baran63@poczta.pl;600-ABC-900;71060916183;1971-06-09
+K00064;Katarzyna;Stępień;katarzyna.stepien64@firma.pl;413 947 199;98061563749;1998-06-15
+K00065;Magdalena;Mazur;magdalena.mazur65@example.com;551-162-258;97090503120;1997-09-05
+K00066;Marcin;Krawczyk;;116810389;73020203539;1973-02-02
+K00067;Marek;Wieczorek;marek.wieczorek67@poczta.pl;+48 009 883 718;67062951310;1967-06-29
+K00068;Marek;Kamińska;marek.kaminska68@testmail.pl;+48 042 280 024;60080987297;1960-08-09
+K00069;Krzysztof;Woźniak;krzysztof.wozniak69@demo.org;305-205-551;55100309393;1974-02-15
+K00070;Łukasz;Kowalski;lukasz.kowalski70@poczta.pl;694-712-348;59122374151;1980-02-30
+K00071;Michał;Krawczyk;michal.krawczyk71@poczta.pl;456 800 875;97060532811;1997-06-05
+K00072;Beata;Nowak;beata.nowak72@example.com;;62031617040;1962-03-16
+K00073;Piotr;Jankowski;piotr.jankowski73@firma.pl;+48 386 556 249;56022327117;1956-02-23
+K00074;Anna;Wieczorek;anna.wieczorek74@example.com;236-246-658;81052320260;1981-05-23
+K00075;Zofia;Wójcik;zofia.wojcik75@demo.org;+48 420 024 356;90072534844;1990-07-25
+K00076;Katarzyna;Mazur;katarzyna.mazur76@firma.pl;486478008;04253072405;2004-05-30
+K00077;aleksandra;Nowicka;aleksandra.nowicka77@poczta.pl;077 087 273;74021466868;1974-02-14
+K00078;Anna;Woźniak;anna.wozniak78@poczta.pl;927 166 876;93041564088;1993-04-15
+K00079;Sebastian;Lewandowski;sebastian.lewandowski79@testmail.pl;48 123 456 789;70022025714;1970-02-20
+K00080;Magdalena;Pawlak;magdalena.pawlak80@poczta.pl;096721673;88051626006;1988-05-16
+K00081;Karolina;Sikora;karolina.sikora81@poczta.pl;+48 697 331 845;70103036206;1970-10-30
+K00082;Dorota;Nowak;dorota.nowak82@testmail.pl;+48 964 555 105;87090818601;1977-07-07
+K00083;Wojciech;Lewandowski;wojciech.lewandowski83@example.com;047-034-710;71070649291;1971-07-06
+K00084;Michał;Olszewska;michal.olszewska84@example.com;+48 391 958 808;84080570899;1984-08-05
+K00085;Magdalena;Lis;magdalena.lis85@poczta.pl;+48 485 392 112;95020624383;1995-02-06
+K00086;Aleksandra;Lis;aleksandra.lis86@testmail.pl;+48 094 752 019;79100590384;1979-10-05
+K00087;Łukasz;Szymański;lukasz.szymanski87@testmail.pl;036-449-701;90093048335;1990-09-30
+K00088;Jan;Lis;jan.lis88@poczta.pl;+48 442 255 426;66070327335;1966-07-03
+K00089;Marek;Jabłońska;monika@firma,pl;+48 834 238 893;00282401353;2000-08-24
+K00090;Iwona;Dąbrowska;iwona.dabrowska90@testmail.pl;573-535-002;68101708948;1968-10-17
+K00091;Ewa;Nowicka;ewa.nowicka91@demo.org;+48 671 746 337;82041939543;2001-12-12
+K00092;Krzysztof;Baran;krzysztof.baran92@poczta.pl;+48 967 950 205;64052631113;1964-05-26
+K00093;Monika;Jabłońska;monika.jablonska93@poczta.pl;468 718 368;96061188182;1996-06-11
+K00094;Anna;Nowak;anna.nowak94@testmail.pl;430-039-549;93121203485;1993-12-12
+K00095;Iwona;Król;iwona.krol95@firma.pl;556234748;93111359826;1993-11-13
+K00096;Tomasz;Król;tomasz.krol96@firma.pl;;66071342571;1966-07-13
+K00097;Jan;Lewandowski;jan.lewandowski97@poczta.pl;107542421;64010636710;1964-01-06
+K00098;Marcin;Michalska;marcin.michalska98@poczta.pl;927 316 677;67062577000;1963-06-16
+K00099;Michał;Wójcik;michal.wojcik99@demo.org;397 946 679;95100602478;1995-10-06
+K00100;Agnieszka;Szymański;agnieszka.szymanski100@firma.pl;+48 564 671 708;68120472181;1968-12-04
+K00101;Sebastian;Lewandowski;sebastian.lewandowski101@firma.pl;900-848-704;75111393156;1975-11-13
+K00102;Aleksandra;Lewandowski;lukasz@demo..org;658780131;95071469366;1995-07-14
+K00103;Rafał;Mazur;rafal.mazur103@testmail.pl;+48 967 117 564;05260464793;2005-06-04
+K00104;Joanna;Szewczyk;joanna.szewczyk104@demo.org;528469377;59090155547;1959-09-01
+K00105;Krzysztof;Pawlak;krzysztof.pawlak105@demo.org;397-508-860;60091160052;1960-09-11
+K00106;Anna;Zielińska;anna.zielinska106@firma.pl;616373912;96112056563;1996-11-20
+K00107;Anna;Kozłowski;anna.kozlowski107@example.com;979 085 304;85093004625;1985-09-30
+K00108;Wojciech;Wiśniewski;wojciech.wisniewski108@firma.pl;+49 123 456 789;63112062038;1963-11-20
+K00109;Magdalena;Nowak;magdalena.nowak109@firma.pl;203-188-405;59102125366;1959-10-21
+K00110;Wojciech;Lis;wojciech.lis110@poczta.pl;176-634-805;80042658078;1980-04-26
+K00111;Piotr;Lewandowski;piotr.lewandowski111@firma.pl;+48 654 540 204;58071674739;1958-07-16
+K00112;Dorota;Krawczyk;dorota.krawczyk112@testmail.pl;+48 878 539 851;55112990026;1955-11-29
+K00113;Tomasz;Lis;tomasz.lis113@poczta.pl;605698700;86100527432;1986-10-05
+K00114;Natalia;Jankowski;natalia.jankowski114@example.com;927 093 372;72041606329;1972-04-16
+K00115;Rafał;Kozłowski;rafal.kozlowski115@firma.pl;781665162;71051105419;1960-01-01
+K00116;Grzegorz;Sikora;grzegorz.sikora116@example.com;+48 277 085 108;58061169772;1958-06-11
+K00117;Iwona;Zielińska;iwona.zielinska117@poczta.pl;900-280-960;63040886647;1963-04-08
+K00118;Aleksandra;wójcik;aleksandra.wojcik118@firma.pl;640-011-465;99121477509;1999-12-14
+K00119;Krzysztof;Szymański;krzysztof.szymanski119@example.com;+48 184 924 698;03303067651;2003-10-30
+K00120;Aleksandra;Wróbel;aleksandra.wrobel5@testmail.pl;+48 549 336 162;69040464902;1969-04-04
